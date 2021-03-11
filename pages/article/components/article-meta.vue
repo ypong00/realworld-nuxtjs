@@ -86,7 +86,7 @@ export default {
   computed: {
     ...mapState(["user"]),
     isAuthor () {
-      return this.article.author.username === this.user?.username
+      return this.article.author.username === this.user.username
     }
   },
   methods: {
