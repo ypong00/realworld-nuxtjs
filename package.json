@@ -1,7 +1,7 @@
 {
   "name": "realworld-nuxtjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "realworld",
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
@@ -25,5 +25,6 @@
     "type": "git",
     "url": "https://github.com/ypong00/realworld-nuxtjs",
     "private": true
-  }
+  },
+  "private": true
 }
